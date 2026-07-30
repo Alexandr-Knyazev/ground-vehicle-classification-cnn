@@ -7,7 +7,7 @@ Binary classification of civilian and military ground vehicles from aerial image
 
 - **Demo video:** [https://drive.google.com/file/d/1iHT_Q8vEJMhjnS3nvL7Qrp6i-m1y28T2/view?usp=drive_link]  
 - **Screenshots:**
-  - Main GUI: ![GUI main](screenshots/main menu.jpg)
+  - Main GUI: ![GUI main](screenshots/main_menu.jpg)
   - Metrics window: ![GUI metrics](screenshots/results.jpg)
   - Augmentation examples: ![Augmentation](screenshots/augmentation_examples.jpg)
 
